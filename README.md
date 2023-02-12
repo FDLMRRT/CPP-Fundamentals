@@ -1,28 +1,24 @@
 # C++ Fundamentals
+## What is this?
 
-- Jupyter Notebooks, Pdfs, Powerpoint Slides, Lecture Notes, Labs and Exercises for Computer Science Foundational Concepts (CS1) using C++
-- some of the contents are based on the open source textbook: Think C++ by Allen B. Downey, [https://en.cppreference.com/](https://en.cppreference.com/) and [http://cplusplus.com/](http://cplusplus.com/)
-- PDF of the textbook can be found at [http://www.greenteapress.com/thinkcpp/thinkCScpp.pdf](http://www.greenteapress.com/thinkcpp/thinkCScpp.pdf)
+- This is a repository containing various resources to aid in the learning or teaching of the fundamentals of cpp
+- The resources include Jupyter Notebooks, Pdfs, Powerpoint Slides, Lecture Notes, Labs and Exercises for Computer Science Foundational Concepts (CS1) using C++
 
-## PDF format
+## Content
 
-- pdf of each jupyter notebook chapter can be found in [pdfs](https://github.com/rambasnet/CPPFundamentals-Notebooks/tree/master/pdfs) folder
-- pdfs of lecture notes can be found in [notes](https://github.com/rambasnet/CPP-Fundamentals/tree/master/notes) folder
+- pdfs of each jupyter notebook chapter are found in the [pdfs](https://github.com/rambasnet/CPPFundamentals-Notebooks/tree/master/pdfs) folder
+- pdfs of lecture notes are found in the [notes](https://github.com/rambasnet/CPP-Fundamentals/tree/master/notes) folder
+- powerpoint slides of the lecture notes and their corresponding pdfs are found in the [slides](https://github.com/rambasnet/CPP-Fundamentals/tree/master/slides) folder
 
-
-## Powerpoint slides
-
-- powerpoint slides and corresponding pdfs based on the lecutre notes are found in [slides](https://github.com/rambasnet/CPP-Fundamentals/tree/master/slides) folder
-
-## Who can use this content
+## Target Audience
 
 ### University and high-school coding instructors
 
-Depending on the course level and topics covered, instructors can pick and choose appropriate chapters.
+There is a variety of content to pick from, so instructors can pick the ones relevant to the course they are teaching.
 
 ### Self learners
 
-Depending on their skill and interest level, learners can move as swiftly as appropriate through the chapters. Try solving some exercises towards the end of each chapter before moving on to self-assess the mastery of the materials.
+Since the content will always be available, learners can go at their own pace. It is recommended to try solving some exercises towards the end of each chapter before moving on to self-assess the mastery of the materials.
 
 ## How to use Jupyter Notebook
 
@@ -48,7 +44,7 @@ To run these notebooks interactively and save your work locally, you need the fo
 
 #### Setup development environment
 
-- detail step-by-step instructions (with screenshots) can be found here: [https://github.com/rambasnet/DevEnvSetup](https://github.com/rambasnet/DevEnvSetup)
+- detailed step-by-step instructions (with screenshots) can be found here: [https://github.com/rambasnet/DevEnvSetup](https://github.com/rambasnet/DevEnvSetup)
 
 #### Install required programs
 
@@ -125,7 +121,7 @@ To run these notebooks interactively and save your work locally, you need the fo
 ### Compiling and running C++ programs with [VS Code](https://code.visualstudio.com/)
 
 - install C/C++ extensions for VS Code
-- open integreted terminal in VS Code: View -> Terminal and follow the commands above
+- open integrated terminal in VS Code: View -> Terminal and follow the commands above
 - you can also click run button on the top right corner for some programs, but not recommended for many programs that are interactive
 
 ## Content contributors
@@ -136,6 +132,10 @@ To run these notebooks interactively and save your work locally, you need the fo
 ## Contributing
 
 Contributions are accepted via pull requests. You can also open issues on bugs, typos or any corrections and suggest improvements on the notebooks and other contents.
+
+## References
+- Some of the content is based on the open source textbook: Think C++ by Allen B. Downey, [https://en.cppreference.com/](https://en.cppreference.com/) and [http://cplusplus.com/](http://cplusplus.com/)
+- A pdf of the textbook can be found at [http://www.greenteapress.com/thinkcpp/thinkCScpp.pdf](http://www.greenteapress.com/thinkcpp/thinkCScpp.pdf)
 
 ## Copyright and License
 
